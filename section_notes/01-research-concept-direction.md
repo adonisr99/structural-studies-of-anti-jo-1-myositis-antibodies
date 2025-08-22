@@ -1,15 +1,3 @@
 # Research Concept & Direction
 
-## Overview
-
-*Define your research problem and objectives here...*
-
-## Key Research Questions
-
-1. 
-2. 
-3. 
-
-## Methodology
-
-*Describe your overall approach...*
+Myositis is a form of inflammation that affects the muscle - it has been previously linked to anti-JO1 antibodies. I am interested in trying to see if I can apply structural biology (cryoEM or X-ray crystallography) to better understand how JO1 antibodies bind their antigen to help inform design of new therapeutics that would treat myositis or that might help to retolerize the immune system. 
